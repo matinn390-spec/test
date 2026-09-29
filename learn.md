@@ -10,7 +10,16 @@
     
 ---
 
-# Add a file to git 
+# Add a file to git (satge for commit)
     - git add . 
 
-    
+
+# Status 
+    - git status 
+
+# Commit 
+    - git commit -m 'this is first text'
+
+
+
+
