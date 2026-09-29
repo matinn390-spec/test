@@ -22,7 +22,7 @@
 
 
 # log - commit lists 
-    - git log 
+    - git log ik
 
 
 
