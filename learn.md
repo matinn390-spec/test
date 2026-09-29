@@ -21,5 +21,8 @@
     - git commit -m 'this is first text'
 
 
+# log - commit lists 
+    - git log 
+
 
 
